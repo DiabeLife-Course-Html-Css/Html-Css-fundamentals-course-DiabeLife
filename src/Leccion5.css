@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: green;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    color: darkgreen;
+}
+
+img {
+    border: 5px solid black;
+}
