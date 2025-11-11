@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: darkblue;
+    font-family: Arial;
+}
+
+p {
+    color: navy;
+    font-family: Verdana;
+}
+
+li {
+    color: darkgreen;
+}
